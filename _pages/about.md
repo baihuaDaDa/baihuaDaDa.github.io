@@ -12,13 +12,12 @@ I'm Bohan Zhang (aka baihuaDaDa), a second-year undergraduate student from [ACM 
 News
 ======
 
-**June 3, 2025**     Joining SysdomLab as an undergraduate research intern.
-
-**Feb 18, 2025**     Worked as one of TAs of Data Structure (CS1951) at SJTU.
-
-**Sep 18, 2024**     Worked as one of TAs of Programming (CS1953) at SJTU.
-
-**Aug 15, 2023**     Joined ACM Honor Class at SJTU.
+<table style="border: none; width: 100%;">
+<tr><td style="border: none; width: 150px; font-weight: bold;">June 3, 2025</td><td style="border: none;">Joining SysdomLab as an undergraduate research intern.</td></tr>
+<tr><td style="border: none; width: 150px; font-weight: bold;">Feb 18, 2025</td><td style="border: none;">Worked as one of TAs of Data Structure (CS1951) at SJTU.</td></tr>
+<tr><td style="border: none; width: 150px; font-weight: bold;">Sep 18, 2024</td><td style="border: none;">Worked as one of TAs of Programming (CS1953) at SJTU.</td></tr>
+<tr><td style="border: none; width: 150px; font-weight: bold;">Aug 15, 2023</td><td style="border: none;">Joined ACM Honor Class at SJTU.</td></tr>
+</table>
 
 Projects
 ======
@@ -43,6 +42,7 @@ Two distinct distributed hash table protocols are implemented in this project: C
 Honors
 ======
 
-**2023,2024**     Zhiyuan Honors Scholarship
-
-**2024**          Undergraduate Merit Scholarship (B Class) of Shanghai Jiao Tong University
+<table style="border: none; width: 100%;">
+<tr><td style="border: none; width: 150px; font-weight: bold;">2023, 2024</td><td style="border: none;">Zhiyuan Honors Scholarship</td></tr>
+<tr><td style="border: none; width: 150px; font-weight: bold;">2024</td><td style="border: none;">Undergraduate Merit Scholarship (B Class) of Shanghai Jiao Tong University</td></tr>
+</table>
