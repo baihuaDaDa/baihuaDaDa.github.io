@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "baihuaDaDa / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Bohan Zhang"
-description              : &description "Second-year undergraduate from ACM Honor Class, Shanghai Jiao Tong University"
+description              : &description "Fourth-year undergraduate from ACM Honor Class, Shanghai Jiao Tong University"
 url                      : https://baihuadada.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "baihuaDaDa/baihuadada.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile-pic.jpg"
   name             : "Bohan Zhang"
   pronouns         : "he/him"  
-  bio              : "Second-year undergraduate from ACM Honor Class, Shanghai Jiao Tong University"
+  bio              : "Fourth-year undergraduate from ACM Honor Class, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
@@ -66,7 +66,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : "百花"
   telegram         : # URL
   tumblr           : # Username
   twitter          : "baihuaDaDa"
