@@ -13,13 +13,13 @@ News
 ======
 
 <table style="border: none; width: 100%; font-size: 1em;">
-  <tr><td style="border: none; width: 150px; font-weight: bold;">May, 2026</td><td style="border: none;">Released <a href="https://github.com/NVlabs/LongLive">LongLive-2.0</a> with my collaborators in Han-Lab.</td></tr>
-  <tr><td style="border: none; width: 150px; font-weight: bold;">November, 2025</td><td style="border: none;">Joined Han-Lab as a research intern.</td></tr>
-  <tr><td style="border: none; width: 150px; font-weight: bold;">July, 2025 to Jan, 2026</td><td style="border: none;">Worked as one of TAs of Compiler Design and Implementation</td></tr>
-  <tr><td style="border: none; width: 150px; font-weight: bold;">June, 2025</td><td style="border: none;">Joined SysdomLab as an undergraduate research intern.</td></tr>
-  <tr><td style="border: none; width: 150px; font-weight: bold;">Feb, 2025 to June 2025</td><td style="border: none;">Worked as one of TAs of Data Structure (CS1951) at SJTU.</td></tr>
-  <tr><td style="border: none; width: 150px; font-weight: bold;">Sep, 2024 to Jan, 2025</td><td style="border: none;">Worked as one of TAs of Programming (CS1953) at SJTU.</td></tr>
-  <tr><td style="border: none; width: 150px; font-weight: bold;">Aug, 2023</td><td style="border: none;">Joined ACM Honor Class at SJTU.</td></tr>
+  <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">May, 2026</td><td style="border: none;">Released <a href="https://github.com/NVlabs/LongLive">LongLive-2.0</a> with my collaborators in Han-Lab.</td></tr>
+  <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">November, 2025</td><td style="border: none;">Joined Han-Lab as a research intern.</td></tr>
+  <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">July, 2025 <em style="font-weight: normal;">to</em> Jan, 2026</td><td style="border: none;">Worked as one of TAs of Compiler Design and Implementation</td></tr>
+  <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">June, 2025</td><td style="border: none;">Joined SysdomLab as an undergraduate research intern.</td></tr>
+  <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">Feb, 2025 <em style="font-weight: normal;">to</em> June 2025</td><td style="border: none;">Worked as one of TAs of Data Structure (CS1951) at SJTU.</td></tr>
+  <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">Sep, 2024 <em style="font-weight: normal;">to</em> Jan, 2025</td><td style="border: none;">Worked as one of TAs of Programming (CS1953) at SJTU.</td></tr>
+  <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">Aug, 2023</td><td style="border: none;">Joined ACM Honor Class at SJTU.</td></tr>
 </table>
 
 Representativ Systems
@@ -54,5 +54,5 @@ Honors
 ======
 
 <table style="border: none; width: 100%; font-size: 1em;">
-<tr><td style="border: none; width: 150px; font-weight: bold;">2023, 2024, 2025</td><td style="border: none;">Zhiyuan Honors Scholarship</td></tr>
+<tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">2023, 2024, 2025</td><td style="border: none;">Zhiyuan Honors Scholarship</td></tr>
 </table>
