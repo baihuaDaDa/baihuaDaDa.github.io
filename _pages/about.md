@@ -22,7 +22,7 @@ News
   <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">Aug, 2023</td><td style="border: none;">Joined ACM Honor Class at SJTU.</td></tr>
 </table>
 
-Representativ Systems
+Representative Systems
 ======
 
 [LongLive-2.0](https://github.com/NVlabs/LongLive)
