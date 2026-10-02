@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Bohan Zhang (aka baihuaDaDa), a fourth-year undergraduate student from [ACM Honor Class](https://acm.sjtu.edu.cn) at [Zhiyuan College](https://zhiyuan.sjtu.edu.cn), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn), expected to graduate in June, 2027. I am interested in computer science, especially in the fields of machine learning system, especially parallel and distributed computing. I am currently working as a research intern at [Han-Lab](https://hanlab.mit.edu/) of [MIT](https://mit.edu/), supervised by Doc. [Yukang Chen](https://yukangchen.com/) and Prof. [Song Han](https://hanlab.mit.edu/songhan). I am also working at SJTU System Wisdom Lab (SysdomLab), mentored by Prof. [Chen Chen](https://chenc10.github.io), associate professor in [John Hopcroft Center for Computer Science](https://jhc.sjtu.edu.cn) at SJTU.
+I'm Bohan Zhang (aka baihuaDaDa), a fourth-year undergraduate student from [ACM Honor Class](https://acm.sjtu.edu.cn) at [Zhiyuan College](https://zhiyuan.sjtu.edu.cn), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn), expected to graduate in June, 2027. I am interested in computer science, especially in the fields of machine learning system. I am currently working as a research intern at [Han-Lab](https://hanlab.mit.edu/) of [MIT](https://mit.edu/), supervised by Doc. [Yukang Chen](https://yukangchen.com/) and Prof. [Song Han](https://hanlab.mit.edu/songhan), focusing on inference infrastructure of physical AI. I am also working at SJTU System Wisdom Lab (SysdomLab), mentored by Prof. [Chen Chen](https://chenc10.github.io), associate professor in [John Hopcroft Center for Computer Science](https://jhc.sjtu.edu.cn) at SJTU, focusing on agent for machine learning systems.
 
 News
 ======
@@ -25,7 +25,7 @@ News
 Representative Systems
 ======
 
-Long-WAM
+Long-WAM (To be released)
 ---
 
 Long-WAM is a model-system framework for real-time robotic manipulation that combines autoregressive video pretraining, long-term visual memory, and joint future-video and action prediction. It integrates asynchronous execution, streaming video encoding, and hardware-specific acceleration to support responsive, long-horizon control across desktop and edge GPUs, with evaluation in simulation and on real robots.
