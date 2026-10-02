@@ -15,7 +15,7 @@ News
 <table style="border: none; width: 100%; font-size: 1em;">
   <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">May, 2026</td><td style="border: none;">Released <a href="https://github.com/NVlabs/LongLive">LongLive-2.0</a> with my collaborators in Han-Lab.</td></tr>
   <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">November, 2025</td><td style="border: none;">Joined Han-Lab as a research intern.</td></tr>
-  <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">July, 2025 <em style="font-weight: normal;">to</em> Jan, 2026</td><td style="border: none;">Worked as one of TAs of Compiler Design and Implementation</td></tr>
+  <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">July, 2025 <em style="font-weight: normal;">to</em> Jan, 2026</td><td style="border: none;">Worked as one of TAs of Compiler Design and Implementation (CS2966) at SJTU.</td></tr>
   <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">June, 2025</td><td style="border: none;">Joined SysdomLab as an undergraduate research intern.</td></tr>
   <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">Feb, 2025 <em style="font-weight: normal;">to</em> June 2025</td><td style="border: none;">Worked as one of TAs of Data Structure (CS1951) at SJTU.</td></tr>
   <tr><td style="border: none; width: 230px; white-space: nowrap; font-weight: bold;">Sep, 2024 <em style="font-weight: normal;">to</em> Jan, 2025</td><td style="border: none;">Worked as one of TAs of Programming (CS1953) at SJTU.</td></tr>
@@ -25,15 +25,27 @@ News
 Representative Systems
 ======
 
+Long-WAM
+---
+
+Long-WAM is a model-system framework for real-time robotic manipulation that combines autoregressive video pretraining, long-term visual memory, and joint future-video and action prediction. It integrates asynchronous execution, streaming video encoding, and hardware-specific acceleration to support responsive, long-horizon control across desktop and edge GPUs, with evaluation in simulation and on real robots.
+
+I worked, as one of the main contributors in the project, on the whole system part of the framework, including the asynchronization and edge deployment mentioned above.
+
 [LongLive-2.0](https://github.com/NVlabs/LongLive)
 ---
 
-An FP4/NVFP4 long-video generation infrastructure with Balanced SP, teacher-forcing layout co-design, W4A4 inference, KV cache compression, parallel dequantization, and asynchronous streaming VAE decoding. The project is now open-sourced by NVIDIA on Github, gaining over \textbf{2k stars}.
+An FP4/NVFP4 long-video generation infrastructure with Balanced SP, teacher-forcing layout co-design, W4A4 inference, KV cache compression, parallel dequantization, and asynchronous streaming VAE decoding. The project is now open-sourced by NVIDIA on Github, gaining over **2k stars**.
 
 I worked on inference infra part of the system, including KV cache compression, SP Parallelism and asynchronous streaming VAE decoding, improving both speed and memory.
 
 Personal Projects
 ======
+
+[Mini-SGLang](https://github.com/baihuaDaDa/Mini-SGLang)
+---
+
+A mini version of SGLang, which strips away numerous redundant complex features while retaining only the fundamental core algorithms like RadixAttention and a limited number of model supports such as Qwen3. It is currently undergoing further refinement and testing.
 
 [Mx Compiler](https://github.com/baihuaDaDa/Compiler-2024)
 ---
